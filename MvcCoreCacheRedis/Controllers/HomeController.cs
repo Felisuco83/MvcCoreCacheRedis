@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace MvcCore.Controllers
+namespace MvcCoreCacheRedis.Controllers
 {
     public class HomeController : Controller
     {
